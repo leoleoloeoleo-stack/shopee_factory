@@ -1,0 +1,39 @@
+{
+  "naver": {
+    "client_id": "23Q3rP51wLlf7FityInc",
+    "client_secret": "ZqgWm9Jsm6",
+    "search_endpoint": "https://openapi.naver.com/v1/search/shop.json",
+    "query": "화장품",
+    "display": 100,
+    "mall_name_filter": ["쿠팡", "마켓컬리"]
+  },
+  "sourcing": {
+    "enabled": true,
+    "keywords": ["화장품", "스킨케어", "립스틱", "마스크팩", "물푸"],
+    "min_price_krw": 15000,
+    "max_price_krw": 30000,
+    "max_weight_g": 500
+  },
+  "shopee": {
+    "partner_id": "",
+    "partner_key": "",
+    "shop_id": "",
+    "access_token": "",
+    "api_base": "https://partner.shopeemobile.com/api/v2",
+    "country": "SG",
+    "currency": "SGD"
+  },
+  "margin": {
+    "target_margin_ratio": 0.30,
+    "vat_ratio": 0.09,
+    "shopee_fee_ratio": 0.13,
+    "domeggeme_shipping_krw": 3000,
+    "forwarding_fee_krw": 2000,
+    "handling_fee_krw": 1200,
+    "exchange_rate_krw": 1000.0
+  },
+  "run": {
+    "headless": false,
+    "dryrun": false
+  }
+}

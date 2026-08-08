@@ -1,0 +1,28 @@
+{
+  "SG": {
+    "currency": "SGD",
+    "exchange_rate_krw": 1000.0,
+    "domestic_shipping_krw": 3000,
+    "3pl_fee_krw": 1200,
+    "shopee_fee_ratio": 0.13,
+    "target_margin_ratio": 0.15,
+    "vat_ratio": 0.09,
+    "sls_shipping_base_sgd": 1.99,
+    "sls_shipping_per_g_sgd": 0.015,
+    "max_weight_g": 300,
+    "min_stock": 50
+  },
+  "MY": {
+    "currency": "MYR",
+    "exchange_rate_krw": 300.0,
+    "domestic_shipping_krw": 3000,
+    "3pl_fee_krw": 1200,
+    "shopee_fee_ratio": 0.13,
+    "target_margin_ratio": 0.15,
+    "vat_ratio": 0.08,
+    "sls_shipping_base_myr": 4.50,
+    "sls_shipping_per_g_myr": 0.03,
+    "max_weight_g": 300,
+    "min_stock": 50
+  }
+}

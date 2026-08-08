@@ -1,0 +1,16 @@
+{
+  "column_mapping": {
+    "product_id": "상품번호",
+    "product_name": "상품명",
+    "supply_price": "판매가",
+    "shipping_fee": "배송비",
+    "image_url": "이미지",
+    "category_id": "카테고리번호",
+    "brand_name": "브랜드",
+    "manufacturer": "제조사",
+    "stock": "재고수량",
+    "delivery_type": "배송구분",
+    "weight_g": "무게",
+    "supplier_id": "공급사코드"
+  }
+}

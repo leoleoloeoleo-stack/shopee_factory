@@ -1,0 +1,48 @@
+- 명품
+- 브랜드
+- 정품
+- 해외직구
+- 병행수입
+- 수제
+- 핸드메이드
+- 캔디
+- 초콜릿
+- 과자
+- 식품
+- 화장품
+- 향수
+- 크림
+- 로션
+- authentic
+- guaranteed
+- genuine
+- original guarantee
+- official authorized
+- reseller
+- drug
+- pill
+- tablet
+- medicine
+- cbd
+- cannabis
+- supplement
+- battery
+- lithium
+- explosive
+- firework
+- gun
+- weapon
+- knife
+- pepper spray
+- LED
+- laser
+- UV
+- pesticide
+- insecticide
+- lipstick
+- eyelash
+- nail art
+- adult
+- sex toy
+- lingerie
+- condom
